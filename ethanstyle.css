@@ -1,3 +1,14 @@
+.inline{
+  color:white;
+  text-align:center;
+
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
 
 /* Set a background color */
 body {
@@ -120,7 +131,7 @@ body {
   }
 
 /* Make sure all circles are at the same spot */
-  .left::after, .right::after {
+  .left::after, .right: :after {
     left: 15px;
   }
 
