@@ -1,3 +1,11 @@
+
+img.resize {
+  max-width:75%;
+  max-height:75%;
+  margin-right: 100px;
+}
+
+
 .inline{
   color:white;
   text-align:center;
